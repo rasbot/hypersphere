@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sci Fi Rune Goldstein", "Assembly-CSharp-firstpass.csproj", "{2FB967C1-3835-C81B-80F5-C6C1CA4D4BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sci Fi Rune Goldstein", "Assembly-CSharp.csproj", "{955B4BEC-4498-4E74-8E54-D4DDDE658A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sci Fi Rune Goldstein", "Assembly-CSharp-Editor.csproj", "{F495DEB2-3171-0B2F-845F-9457E8C82DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB967C1-3835-C81B-80F5-C6C1CA4D4BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB967C1-3835-C81B-80F5-C6C1CA4D4BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB967C1-3835-C81B-80F5-C6C1CA4D4BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB967C1-3835-C81B-80F5-C6C1CA4D4BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955B4BEC-4498-4E74-8E54-D4DDDE658A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955B4BEC-4498-4E74-8E54-D4DDDE658A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955B4BEC-4498-4E74-8E54-D4DDDE658A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955B4BEC-4498-4E74-8E54-D4DDDE658A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F495DEB2-3171-0B2F-845F-9457E8C82DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F495DEB2-3171-0B2F-845F-9457E8C82DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F495DEB2-3171-0B2F-845F-9457E8C82DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F495DEB2-3171-0B2F-845F-9457E8C82DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
