@@ -54,7 +54,11 @@ To make the game more interesting, a gravity toggle must be used for certain par
   <img src="https://raw.githubusercontent.com/rasbot/hypersphere/master/Images/controls.png" width="800" height="auto"/>
 </p>
 
-There is also a toggle to reset the scene if the ball happens to get stuck on a surface and doesn't hit the ground (which will auto reset the ball).
+There is also a toggle to reset the scene if the ball happens to get stuck on a surface and doesn't hit the ground (which will auto reset the ball). The button is green when gravity is downward, and red when it is upward.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rasbot/hypersphere/master/Images/reverse_g.gif" width="600" height="auto"/>
+</p>
 
 ## Game Build
 
